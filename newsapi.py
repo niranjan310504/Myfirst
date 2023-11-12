@@ -12,3 +12,8 @@ articles = response.json()['articles']
 # Print the titles of the top 10 articles
 for article in articles[:10]:
   print(article['title'])
+print(article['title'])
+print(article['title'])
+print(article['title'])
+print(article['title'])
+print(article['title'])
